@@ -12,7 +12,7 @@ const WeatherDashboard = () => {
 
   return (
     <div className="weather-dashboard">
-      <h1>Weather Dashboard Application</h1>
+      <h1>Weather Dashboard</h1>
       <input
         type="text"
         value={location}
